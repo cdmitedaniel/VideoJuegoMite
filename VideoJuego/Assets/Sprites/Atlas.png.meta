@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 5bd084d6733e4c848b5b3a2427df97e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4018074224661003100
+    second: Cuerpo
+  - first:
+      213: -4869357254534750094
+    second: Item
+  - first:
+      213: -6721728136321296765
+    second: ColaB
+  - first:
+      213: -7826287199498012479
+    second: BloqueMediano
+  - first:
+      213: 5327950094024008212
+    second: ColaA
+  - first:
+      213: 6615319868462110837
+    second: PataInferiorB
+  - first:
+      213: -1347233719151212251
+    second: PataSuperiorB
+  - first:
+      213: 7870480730772048316
+    second: OrejaIzquierda
+  - first:
+      213: -407774699277236136
+    second: Cabeza
+  - first:
+      213: -5599750456436461424
+    second: BloqueCorto
+  - first:
+      213: -7450669156800766785
+    second: OrejaDerecha
+  - first:
+      213: -4272707242783423304
+    second: PataSuperiorA
+  - first:
+      213: 1726203059708922746
+    second: PataInferiorA
+  - first:
+      213: 3628468241054914511
+    second: BloqueLargo
+  - first:
+      213: -3513202607186615407
+    second: Atlas_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cuerpo
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 148
+        width: 96
+        height: 106
+      alignment: 9
+      pivot: {x: 0.47642288, y: 0.3985744}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708daef0f67b8494d9978fe0d5986ffb
+      internalID: 4018074224661003100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Item
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 172
+        width: 68
+        height: 82
+      alignment: 9
+      pivot: {x: 0.55401766, y: 0.6119882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b77b623f84ca54e885404aa4a792a1
+      internalID: -4869357254534750094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColaB
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 229
+        width: 51
+        height: 25
+      alignment: 9
+      pivot: {x: 0.8938742, y: 0.64712036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80cd31281bda11f4c922444b191a1cde
+      internalID: -6721728136321296765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloqueMediano
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 160
+        width: 547
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66590eb2bbd6f0844bb2ed234c5eeb9d
+      internalID: -7826287199498012479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ColaA
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 174
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.8477605, y: 0.85232055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9a2fb3b8a59044a8c5aea32f135a0
+      internalID: 5327950094024008212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PataInferiorB
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 157
+        width: 25
+        height: 13
+      alignment: 9
+      pivot: {x: 0.2849771, y: 0.7176338}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c467d30a7f26dc04ba18614c39dadbc0
+      internalID: 6615319868462110837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PataSuperiorB
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 115
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.54294753, y: 0.86154497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36448f757bfbaec4bb941a768204a0b5
+      internalID: -1347233719151212251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrejaIzquierda
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 121
+        width: 38
+        height: 51
+      alignment: 9
+      pivot: {x: 0.5818979, y: 0.21707602}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ffa6645609d9e46a0f2c1cd9ebdf34
+      internalID: 7870480730772048316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cabeza
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 101
+        height: 84
+      alignment: 9
+      pivot: {x: 0.42716795, y: 0.109295346}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756129510d9e7a942a0453011fcf6285
+      internalID: -407774699277236136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloqueCorto
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 86
+        width: 275
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afe7172f9030cc4b917a18afe5913e6
+      internalID: -5599750456436461424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OrejaDerecha
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 45
+        height: 58
+      alignment: 9
+      pivot: {x: 0.72005206, y: 0.18780795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857695850eaef1d4599434a5269d754a
+      internalID: -7450669156800766785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PataSuperiorA
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2
+        width: 42
+        height: 58
+      alignment: 9
+      pivot: {x: 0.52694464, y: 0.84146017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0527d4e1cea61ce42b990628ba697878
+      internalID: -4272707242783423304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PataInferiorA
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3
+        width: 45
+        height: 57
+      alignment: 9
+      pivot: {x: 0.5377231, y: 0.81270576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc24dbb3dc2bea49ba45aff5d2cbc1a
+      internalID: 1726203059708922746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BloqueLargo
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 17
+        width: 824
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aacf7e7af27df4cb8b76c532957206
+      internalID: 3628468241054914511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 121
+        width: 2
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28941acc82f3e78408447a6b50e4778e
+      internalID: -3513202607186615407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4f4fd67de63d09b41a67b9d577050abf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
